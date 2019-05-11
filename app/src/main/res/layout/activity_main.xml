@@ -27,7 +27,7 @@
         android:layout_width="match_parent"
         android:layout_weight="9"
         android:layout_height="0dp"
-        android:text="\nLog Info....."
+        android:text="\nLog Info here.."
         android:background="@color/TextSilver"
         android:textColor="@color/colorPrimaryDark"
         />
